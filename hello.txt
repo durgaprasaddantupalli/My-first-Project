@@ -1,0 +1,6 @@
+Package comp.example.helloworld;
+This defines a package name of your app,which is used to identified your app in the android system
+this import  the bundle class which is used to pass data between different activities are bete
+appcompact-this import the appcompact activity class,which is the base class  for activities that use modern android components while maintaing   with older android version
+
+who is first created  when the activity is first created is the entry point of your activity
